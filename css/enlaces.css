@@ -1,0 +1,17 @@
+a{
+   text-decoration: none;
+   background-color: brown;
+   color: rgba(41, 132, 211, 0.925);
+   padding: 5px 20px;
+   font-weight: bold;
+   border-radius: 5px;
+}
+
+a:hover{
+        opacity: 0.6;
+        box-shadow: 5px 5px 5px #aaa;
+}
+
+a:active{
+    background: #e0cc16;
+}

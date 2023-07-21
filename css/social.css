@@ -1,0 +1,39 @@
+
+.container-bar{
+    width: 100%;
+    max-width: 100px;
+    position: fixed;
+    left: 0%;
+    top: 25%;
+    }
+.container-bar a{
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 17px;
+    position: relative;
+    transition: all 500ms ease;
+    color: aliceblue;
+}
+
+.container-bar a:hover{
+            background: #dceb0b;
+}
+
+.container-bar .icon-facebook{
+            background: #3b5998; 
+            border-radius: 0px 5px 0px 0px;    
+}
+
+.container-bar .icon-youtube{
+    background: #FF0000; 
+    border-radius: 0px 5px 0px 0px;    
+}
+.container-bar .icon-email{
+    background: 	#000000; 
+    border-radius: 0px 5px 0px 0px;    
+}
+.container-bar .icon-instagram{
+    background: #e4405f; 
+    border-radius: 0px 5px 0px 0px;    
+}
